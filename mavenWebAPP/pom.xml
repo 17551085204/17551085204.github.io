@@ -57,6 +57,7 @@
             <path>/test</path>
             <port>8080</port>
             <server>tomcat7</server>
+            <url>https://17551085204.github.io:8080/test</url>
           </configuration>
         </plugin>
 
