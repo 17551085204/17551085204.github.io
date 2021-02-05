@@ -56,7 +56,6 @@
           <configuration>
             <path>/test</path>
             <port>8080</port>
-            <uriEncoding>GBK</uriEncoding>
             <server>tomcat7</server>
           </configuration>
         </plugin>
